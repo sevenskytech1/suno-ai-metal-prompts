@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sevenskytech1.github.io/suno-ai-metal-prompts/sitemap.xml
