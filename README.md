@@ -120,7 +120,7 @@ Metal, symphonic subgenre, 130 BPM, layered orchestral guitars, double kick drum
 
 You don't need to fill every slot every time, but the more slots you fill, the more control you have.
 
----
+👉 [Suno AI Prompts: The Ultimate Free Guide for Beginners 2026](https://sevenskywrite.blogspot.com/2026/07/suno-ai-prompts-guide.html)
 
 # Complete Suno AI Metal Prompts Collection
 
