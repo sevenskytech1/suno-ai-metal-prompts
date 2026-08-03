@@ -1,5 +1,7 @@
 # 100 Suno AI Metal Prompts (Death, Thrash, Doom, Black, Metalcore & More) [2026]
 
+A complete collection of Suno AI metal prompts for creating heavy music with death metal, thrash metal, doom metal, black metal, metalcore, and industrial metal styles.
+
 Metal is one of the hardest genres to get right with AI. The music depends on tight details: how the guitars are tuned, how the drums hit, how the vocals sound, how the whole mix feels. Miss one of those details and the song slides into generic rock territory.
 
 If you type just "metal" into Suno, you'll usually get something that sounds close but not right. Maybe the guitars are too clean. Maybe the drums are too soft. Maybe the vocals sound like a rock singer trying to shout instead of a real metal vocalist.
